@@ -20,8 +20,7 @@
 - ⚡ Have a good live teaching skill
 - 👨‍ Love real-world problem solving
 
-<details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+<summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -89,8 +88,7 @@
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
-</details> 
-<details> 
+  
 <summary><h2>📊 Github Stats and Activity</h2></summary>  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tchindou&show_icons=true&theme=tokyonight&layout=compact)
@@ -100,8 +98,6 @@
   
 ![Alaise Tchindou's GitHub stats](https://github-readme-stats.vercel.app/api?username=tchindou&show_icons=true&theme=tokyonight)  
 
-</details> 
-
-<p>You can check out my portfolio <a href="#">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
+<p>You can check out my portfolio <a href="https://alaisetc.netlify.app/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 
 <img src="https://komarev.com/ghpvc/?username=tchindou" alt="tchindou">
