@@ -89,7 +89,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tchindou&show_icons=true&theme=tokyonight&layout=compact)
   
   
-[![Alaise Tchindou's GitHub Streak](https://streak-stats.demolab.com?user=tchindou)](https://git.io/streak-stats)
+[![Alaise Tchindou's GitHub Streak](https://streak-stats.demolab.com?user=tchindou&show_icons=true&theme=tokyonight&layout=compact)](https://git.io/streak-stats)
   
 ![Alaise Tchindou's GitHub stats](https://github-readme-stats.vercel.app/api?username=tchindou&show_icons=true&theme=tokyonight)  
 
