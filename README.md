@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&random=false&width=435&lines=Software+engineering+student%2C+flutter+%26+laravel+apps+developer)](https://git.io/typing-svg)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Amen%20TETTEH-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tchindou/)
+[![Linkedin Badge](https://img.shields.io/badge/-Alaise%20TCHINDOU-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ptchindou/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
