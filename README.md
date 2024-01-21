@@ -2,7 +2,7 @@
 <h2> Hi, I'm TCHINDOU Alaise! <img src="https://media.giphy.com/media/qdhx91DZB1ApRE8ieK/giphy.gif" width="70"></h2>
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="200">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&random=false&width=435&lines=Software+engineering+student%2C+flutter+%26+laravel+apps+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineering+Student%2C;Flutter+and+laravel+app+dev%2C;New+Tech+Enthousiast.)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alaise%20TCHINDOU-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ptchindou/)
 
