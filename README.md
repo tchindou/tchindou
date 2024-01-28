@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineering+Student%2C;Flutter+and+laravel+app+dev%2C;New+Tech+Enthousiast.)](https://git.io/typing-svg)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Alaise%20TCHINDOU-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ptchindou/)
-
 - 🔭 I’m currently working on multiple self project such as [gcal](https://github.com/tchindou/gcal)
 - 🌱 I’m currently improve my flutter and laravel skills
 - 👯 I’m looking to collaborate on impactful project
@@ -14,6 +12,15 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: perfection is my second name
 - 👨‍ Love real-world problem solving
+
+<summary><h2>🫱🏼‍🫲🏾 Connect with me</h2></summary>
+<p align="left">
+<a href="https://linkedin.com/in/ptchindou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ptchindou" height="30" width="40" /></a>
+<a href="https://kaggle.com/alaisetchindou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alaisetchindou" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tchindoualaise02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tchindoualaise02" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tchindou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tchindou" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@tchindoualaise02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@tchindoualaise02" height="30" width="40" /></a>
+</p>
 
 <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
@@ -86,12 +93,15 @@
   
 <summary><h2>📊 Github Stats and Activity</h2></summary>  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tchindou&show_icons=true&theme=tokyonight&layout=compact)
-  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tchindou&show_icons=true&theme=tokyonight&layout=compact) 
   
 [![Alaise Tchindou's GitHub Streak](https://streak-stats.demolab.com?user=tchindou&show_icons=true&theme=tokyonight&layout=compact)](https://git.io/streak-stats)
   
 ![Alaise Tchindou's GitHub stats](https://github-readme-stats.vercel.app/api?username=tchindou&show_icons=true&theme=tokyonight)  
+
+<summary><h2>🏆 Github Trophees</h2></summary> 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tchindou&theme=radical" alt="tchindou" /></a> </p>
 
 <p>You can check out my portfolio <a href="https://alaisetc.netlify.app/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 
