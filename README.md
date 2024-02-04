@@ -94,7 +94,9 @@
   
 <summary><h2>📊 Github Stats and Activity</h2></summary>  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tchindou&show_icons=true&theme=tokyonight&layout=compact)   [![Alaise Tchindou's GitHub Streak](https://streak-stats.demolab.com?user=tchindou&show_icons=true&theme=tokyonight&layout=compact)](https://git.io/streak-stats)   ![Alaise Tchindou's GitHub stats](https://github-readme-stats.vercel.app/api?username=tchindou&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tchindou&show_icons=true&theme=tokyonight&layout=compact) 
+
+[![Alaise Tchindou's GitHub Streak](https://streak-stats.demolab.com?user=tchindou&show_icons=true&theme=tokyonight&layout=compact)](https://git.io/streak-stats)   ![Alaise Tchindou's GitHub stats](https://github-readme-stats.vercel.app/api?username=tchindou&show_icons=true&theme=tokyonight)  
 
 <summary><h2>🏆 Github Trophees</h2></summary> 
 
@@ -102,4 +104,4 @@
 
 <p>You can check out my portfolio <a href="https://alaisetc.netlify.app/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 
-<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" /> <img src="https://komarev.com/ghpvc/?username=tchindou" alt="tchindou"> 
+<img src="https://widgetbite.com/stats/tchindou" alt="watching_count" /> <img src="https://komarev.com/ghpvc/?username=tchindou" alt="tchindou"> 
