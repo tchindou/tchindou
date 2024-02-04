@@ -45,6 +45,7 @@
   <h3>🧰 Frameworks and Libraries</h3>
 
   <p>
+      <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white"></a>
       <a href="#"><img alt="Java EE" src="https://img.shields.io/badge/-Java EE-7952B3.svg?logo=java&logoColor=white"></a>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
