@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineering+Student%2C;Flutter+and+laravel+app+dev%2C;New+Tech+Enthousiast.)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on multiple self project such as [gcal](https://github.com/tchindou/gcal)
+- 🔭 I’m currently working on multiple self project such as [gcal](https://github.com/tchindou/gcal) a flutter project, [wona](https://github.com/devviv/Wona/tree/master/Wona) a private laravel project.
 - 🌱 I’m currently improve my flutter and laravel skills
 - 👯 I’m looking to collaborate on impactful project
 - 💬 Ask me about everything, i will help if i can
