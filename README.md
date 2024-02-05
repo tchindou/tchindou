@@ -91,6 +91,11 @@
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
+
+<summary><h2>📊 Github Stats and Activity</h2></summary> 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tchindou&repo=gcal)](https://github.com/tchindou/gcal)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tchindou&repo=calculette)](https://github.com/tchindou/calculette)
   
 <summary><h2>📊 Github Stats and Activity</h2></summary>  
 
