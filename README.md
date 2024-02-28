@@ -96,7 +96,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tchindou&repo=gcal)](https://github.com/tchindou/gcal)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tchindou&repo=calculette)](https://github.com/tchindou/calculette)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tchindou&repo=GarageAuto)](https://github.com/tchindou/calculette)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tchindou&repo=GarageAuto)](https://github.com/tchindou/GarageAuto)
   
 <summary><h2>📊 Github Stats and Activity</h2></summary>  
 
